@@ -18,3 +18,29 @@ Augur.wiki is an open-source initative , which aims to build a unified platform 
 4. GraphQL API to allow developers to easily integrate platform data into their own applications.
 5. A clean, easy-to-use User Interface so that the average user is able to easily access the data they need.
 6. Plus, a few other small features I'm currently experimenting with (things like cross-platform alerts that you can setup to trigger when market actions occur, etc). More on this in the upcoming weeks, as I work out platform specifics.
+
+# Development milestones
+#### First milestone
+Estimated date of completion (including testing): April 1st, 2019
+
+Description of tasks to complete by this date:
+
+1. [X] Procure domain name, hosting.
+2. [ ] Configure server architecture, load-balancing, auto-deployment, CI, and setup repository with contributing guidelines, and front-end + back-end starting points.
+3. [ ] Finish building front-end; up until further back-end integration is required.
+4. [ ] Have Express server running and pushing out simple analysis dashboard views.
+5. [ ] Have search functionality for historical markets live.
+6. [ ] Have minimal viable API functionality working.
+
+#### Second milestone
+Estimated date of completion (excluding final testing): April 22nd, 2019
+
+Description of tasks to complete by this date:
+
+1. [ ] Have GraphQL outgoing API fully functional.
+2. [ ] Have historical reporting (non-search) built and ready-to-go.
+3. [ ] Have livetime reporting dashboards be live-time instead of the WIP synchronous as in the first milestone.
+4. [ ] Have developer documentation built and ready to go.
+5. [ ] Be ready to go live.
+6. [ ] Deploy to IPFS and be running a node to interact with the network in a more decentralized fashion (reducing reliance on third-party API's).
+6. [ ] **Begin working on Augur.wiki link**. Let users easily sign a nonce with their frequently used Augur addresses and populate a personal dashboard with their market information, markets they've participated in, statistics, and setup alerts, etc.
