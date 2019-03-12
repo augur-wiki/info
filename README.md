@@ -44,3 +44,10 @@ Description of tasks to complete by this date:
 5. [ ] Be ready to go live.
 6. [ ] Deploy to IPFS and be running a node to interact with the network in a more decentralized fashion (reducing reliance on third-party API's).
 6. [ ] **Begin working on Augur.wiki link**. Let users easily sign a nonce with their frequently used Augur addresses and populate a personal dashboard with their market information, markets they've participated in, statistics, and setup alerts, etc.
+
+# Finances
+The following are the finances for the Augur.Wiki project at the moment:
+### Active sources of revenue
+| Funding Organization        | Type             | Link | Amount | Received? |
+|-----------------------------|------------------|------|--------|-----------|
+| Forecast Foundation (Augur) | Community Bounty | [Augur Issue #1267](https://github.com/AugurProject/augur/issues/1267)| $2500  | :x:       |
